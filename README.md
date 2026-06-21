@@ -7,7 +7,7 @@ This repository contains all the tasks completed during my Machine Learning Inte
 - Task 1: House Price Prediction using Linear Regression
 - Task 2: Customer Segmentation using K-Means Clustering
 - Task 3: Cat and Dog Image Classification using Support Vector Machine (SVM)
-- Task 4: ...
+- Task 4: Hand Gesture Recognition using Support Vector Machine (SVM)
 
 ## Technologies Used
 
@@ -28,6 +28,10 @@ Applied K-Means clustering to segment customers into different groups based on t
 
 ### Task 3: Cat and Dog Image Classification using Support Vector Machine (SVM)
 Implemented an SVM classifier to distinguish between cat and dog images from the Kaggle Dogs vs Cats dataset. Performed image preprocessing, feature extraction, model training, and evaluation.
+
+### Task 4: Hand Gesture Recognition using Support Vector Machine (SVM)
+
+Developed a hand gesture recognition model using the Sign Language MNIST dataset. Implemented image preprocessing, feature extraction, and trained an SVM classifier to accurately classify hand gestures, enabling gesture-based human-computer interaction.
 
 ## Technologies and Libraries
 
